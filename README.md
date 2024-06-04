@@ -15,7 +15,9 @@ Colored representation of step being executed. 1.1) Blue:default 1.2) Yellow: Be
 3 Controls for visualizations 2.1) Speed of visualization (5 speed levels) 2.2) Data size () 2.3) Generation of new data (Randomly generate new data).
 Time and Space complexity of algorithm being visualized.
 
-![image](https://github.com/Kajal454/Sorting-Visualizer/assets/114655926/06a2c065-8fee-43e3-b157-aac4d5dbb27b)
 
-![image](https://github.com/Kajal454/Sorting-Visualizer/assets/114655926/9511ee45-46ee-45c5-966d-ec1a23eaaffd)
+
+![vi1](https://github.com/Kajal454/Sorting-Visualizer/assets/114655926/f851ed36-4a85-4668-be96-8e90b3365f60)
+
+![vi2](https://github.com/Kajal454/Sorting-Visualizer/assets/114655926/d9c2d8c9-f135-46e6-9030-5644e0007434)
 
